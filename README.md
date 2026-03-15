@@ -17,4 +17,4 @@ Designed and deployed an immutable, declarative infrastructure platform using Gi
 Standardized Helm-based deployments and automated environment provisioning via Terraform modules and CI/CD pipelines. Created and designed a comprehensive end-to-end monitoring and alerting architecture and implemented with enterprise-grade open-source tooling using Prometheus and Grafana. Automated infrastructure and application maintenance including AI-assisted Changelog review and recurring image updates. 
 
 
-Self-hosted proactive AI agent (MoltBot) on a local Mac-Mini/VPS environment, implementing a Docker-sandboxed architecture to mitigate security risks associated with autonomous system-level execution and terminal access.
+Self-hosted proactive AI agent (Openclaw) on a local Mac-Mini/VPS environment, implementing a Docker-sandboxed architecture to mitigate security risks associated with autonomous system-level execution and terminal access.
